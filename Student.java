@@ -1,8 +1,8 @@
  class Student{
     int Rollno;
     String Name;
-    Student(int r, String s){
-        this.Rollno = r;
+    Student(int n, String s){
+        this.Rollno = n;
         this.Name = s;
     }
 }
